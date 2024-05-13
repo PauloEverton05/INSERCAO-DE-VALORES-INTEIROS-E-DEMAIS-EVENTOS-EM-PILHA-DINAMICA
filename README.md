@@ -1,5 +1,6 @@
-INSERÇÃO DE VALORES INTEIROS E DEMAIS EVENTOS EM PILHA
-DINÂMICA
+INSERÇÃO DE VALORES INTEIROS E DEMAIS EVENTOS EM PILHA DINÂMICA
+
+
 —---------------------------------MENU—---------------------------------
 1) inicializarPilha
 2) verificarTamanhoPilha
